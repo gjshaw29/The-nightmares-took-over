@@ -1,4 +1,66 @@
-main.css
+body {
+background-color: light grey;
+background-image: url("http://free.wallpaperbackgrounds.com/dark/skull/16181-21267.jpg");
+background-size: 300px;
+
+}
+
 h1 {
+color: black;
+font-size: 275%;
+border-bottom: 2px solid red;
+background-color: red
+}
+
+h2 {
+color: red;
+border-bottom: 2px solid red;
+}
+
+p {
+color: red;
+font-size: 150%;
+border: 3px solid red;
+}
+
+h3 {
+color: red;
+border-bottom: 2px solid red;
+}
+
+h4 {
 	color: red;
+	border-bottom: 2px solid red;
+	font-size: 275%;
+}
+
+ol {
+color: red;
+border: 2px solid red;
+list-style: none;
+}
+
+ul {
+color: red;
+border: 2px solid red;
+list-style: none;
+}
+
+table {
+color: red;
+border: 2px solid red;
+}
+
+form {
+	color:red;
+	font-size: 175%;
+	border: 2px solid red;
+}
+
+img {
+	border: 8px solid red;
+}
+
+iframe {
+	border: 4px solid red;
 }
